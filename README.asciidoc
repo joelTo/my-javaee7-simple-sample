@@ -1,3 +1,4 @@
+Amodification 1
 A simple Java EE 7 Sample
 =========================
 
